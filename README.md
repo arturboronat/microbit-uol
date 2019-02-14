@@ -12,6 +12,10 @@ Below, we propose a small number of exercises to become familiarised with micro:
 
 This is the process of transferring a program to a micro:bit. Let's get started with this [quick guide](https://microbit.org/guide/quick/), where you will learn how to develop a basic program and how to flash it.
 
+:warning: Our machines run Windows 10 on a virtual machine and to see the micro:bit as a USB device in the file explorer, you'll need to follow two more steps:
+1. Hover the mouse pointer over to top part of the screen and click on the USB icon that will show up. 
+2. Select `ARM BBC microbit device`. After a few seconds, the micro:bit should appear in the file explorer. 
+
 **Optionally**, you may want to learn how to use your smartphone to flash a micro:bit program via bluetooth. If so keep reading and follow the steps below, else jump to the next section:
 1. Install the app for your handheld device from [here](https://microbit.org/guide/mobile/).
 2. Open the app and pair your micro:bit with your handheld device.
