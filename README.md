@@ -10,34 +10,28 @@ Below, we propose a small number of exercises to become familiarised with micro:
 
 ### Flashing software to micro:bit
 
-This is the process of transferring a program to a micro:bit. First, you need to have downloaded a program, say e.g. by using the `Download` button in the `MakeCode` editor. Second, follow one of the two approaches below for flashing the program to the micro:bit.
+This is the process of transferring a program to a micro:bit. Let's get started with this [quick guide](https://microbit.org/guide/quick/), where you will learn how to develop a basic program and how to flash it.
 
-#### Flashing software using USB
-
-This is a summary of the main steps involved:
-1. Connect your micro:bit to the computer using the USB cable.
-2. Using your file manager application of choice (`Window Explorer` in Windows), drag and drop the file containing your program to the micro:bit. 
-
-A more detailed tutorial, including images can be found [here](https://support.microbit.org/support/solutions/articles/19000013986-how-do-i-transfer-my-code-onto-the-micro-bit-via-usb).
-
-#### Flashing software using Bluetooth from your smartphone/tablet
-
-This is a summary of the main steps involved:
+**Optionally**, you may want to learn how to use your smartphone to flash a micro:bit program via bluetooth. If so keep reading and follow the steps below, else jump to the next section:
 1. Install the app for your handheld device from [here](https://microbit.org/guide/mobile/).
 2. Open the app and pair your micro:bit with your handheld device.
 3. Access the `MakeCode` editor from the app.
-4. Using your file manager application of choice (`Window Explorer` in Windows), drag and drop the file containing your program to the micro:bit. 
+4. Using your file manager application of choice (`File Explorer` in Windows), drag and drop the file containing your program to the micro:bit. 
 
-A more detailed tutorial, including videos describing how to pair a micro:bit can be found [here](https://microbit.org/guide/mobile/#og-app).
+A more detailed tutorial on the use of this app, including videos describing how to pair a micro:bit can be found [here](https://microbit.org/guide/mobile/#og-app).
 
 ### Programming a micro:bit
 
-Once you've practiced how to flash a program, let's get started with some small programs. For each of the exercises below, write the program using the `MakeCode` editor and flash it to your micro:bit:
+Once you've practiced how to flash a program, let's get started with some small programs. We are proposing a list of exercises by order of complexity. If you don't have time to complete all of them during the session, keep exploring the resources at home!
 
-1. [Flashing heart](https://makecode.microbit.org/projects/flashing-heart): learning how to write your first program.
-2. [Display your name](https://makecode.microbit.org/projects/name-tag): can you print `UoL` on the LED screen?
-3. [Smiley buttons](https://makecode.microbit.org/projects/smiley-buttons): learn how to interact with the micro:bit by using its buttons.
+For each of the exercises below, write the program using the `MakeCode` editor and flash it to your micro:bit:
+1. [Display your name](https://makecode.microbit.org/projects/name-tag): can you print `UoL` on the LED screen?
+2. [Smiley buttons](https://makecode.microbit.org/projects/smiley-buttons): learn how to interact with the micro:bit by using its buttons.
+3. [Night night light](https://makecode.microbit.org/lessons/night-light/): learn how to modify the brightness of the LED screen. To start straightaway, click on [activity](https://makecode.microbit.org/lessons/night-light/activity) (don't forget to complete the challenges!).
 4. [Dice](https://makecode.microbit.org/projects/dice): combine maths with micro:bit's sensors in order to implement a dice.
+5. [Coin flipper](https://makecode.microbit.org/projects/coin-flipper): turn your micro:bit into a funny coin flipper.
+6. [Rock-paper-scissors game](https://makecode.microbit.org/projects/rock-paper-scissors): use the accelerometer to build the logic of this simple game, involving variables and choice making. 
+7. [Temperature](https://makecode.microbit.org/lessons/temperature): turn the micro:bit into a thermometer. To start straightaway, click on [activity](https://makecode.microbit.org/lessons/temperature/activity).
 
 ## Additional resources
 
