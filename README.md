@@ -4,34 +4,23 @@ The [BBC micro:bit](https://microbit.org/) is a tiny programmable computer with 
 
 ## Tutorial
 
-We are going to use the [Block language](https://makecode.microbit.org/blocks) and [Microsoft's MakeCode editor](https://makecode.microbit.org/#) for writing programs. Once the program is complete, you need to download it and flash it (transfer it to the micro:bit).
+We are going to use the [Block language](https://makecode.microbit.org/blocks) and [Microsoft's MakeCode editor](https://makecode.microbit.org/#) for writing programs. Once the program is complete, you need to download it and flash it (transfer it to the microbit).
 
 Below, we propose a small number of exercises to become familiarised with micro:bit.
 
 ### Flashing software to micro:bit
 
-This is the process of transferring a program to a micro:bit. Let's get started with this [quick guide](https://microbit.org/get-started/first-steps/set-up/#drag-and-drop), where you will learn how to flash (upload your programs) onto your micro:bit. When following the link, "change the Choose your computer type:" to Linux.
+This is the process of transferring a program to a micro:bit. Let's get started with this [quick guide](https://microbit.org/guide/quick/), where you will learn how to develop a basic program and how to flash it.
 
-:warning: Our machines run Linux (Ubuntu). To see the micro:bit folder, simply click files (Top left corner of your screen) and navigate to MICROBIT.
-
-Lets start by flashing a simple program that displays a heart onto your micro:bit.
-1. Navigate to: [micro:bit home page](https://makecode.microbit.org/#) and select the flashing heart tutorial.
-2. Choose your preferred method to code the solution, blocks is the easiest but choose python/javascript for a harder challenge
-3. Follow the steps in the tutorial
-4. Once finished click the download button (bottom left of the window)
-5. If prompted, save the .hex file the browser is trying to download to the downloads folder.
-6. Time to flash the program to the micro:bit.
-7. Open the downloads folder in one window
-8. Open the micro:bit folder in another window
-9. Simply drag (or copy the hex file to the micro:bit folder)
-10. Once copied the micro:bit will restart and run the latest program you have just flashed to it.
+:warning: Our machines run Windows 10 on a virtual machine and to see the micro:bit as a USB device in the file explorer, you'll need to follow two more steps:
+1. Hover the mouse pointer over to top part of the screen and click on the USB icon that will show up. 
+2. Select `ARM BBC microbit device`. After a few seconds, the micro:bit should appear in the file explorer. 
 
 **Optionally**, you may want to learn how to use your smartphone to flash a micro:bit program via bluetooth. If so keep reading and follow the steps below, else jump to the next section:
 1. Install the app for your handheld device from [here](https://microbit.org/guide/mobile/).
-2. Open the app and pair your micro:bit with your handheld device. Choose "pair" for android, for IOS select "choose micro:bit" from the homescreen and then choose "pair a new micro:bit"
-3. Follow the instructions on screen to pair your micro:bit, if successful you will see a tick on the micro:bit
-4. Navigate to the app homescreen and select `Create code`.
-5. Once you have finished your program you can press the download button (bottom right of the screen) and follow the instructions on your mobile to flash the new program to your micro:bit
+2. Open the app and pair your micro:bit with your handheld device.
+3. Access the `MakeCode` editor from the app.
+4. Using your file manager application of choice (`File Explorer` in Windows), drag and drop the file containing your program to the micro:bit. 
 
 A more detailed tutorial on the use of this app, including videos describing how to pair a micro:bit can be found [here](https://microbit.org/guide/mobile/#og-app).
 
